@@ -14,10 +14,8 @@
 8. [Dashboard Pages & Bookmarks](#8-dashboard-pages--bookmarks)
 9. [Dashboard Screenshots](#9-dashboard-screenshots)
 10. [Key Insights](#10-key-insights)
-11. [Assumptions & Limitations](#11-assumptions--limitations)
-12. [Future Enhancements](#12-future-enhancements)
-13. [Deliverables](#13-deliverables)
-14. [Author](#14-author)
+11. [Deliverables](#13-deliverables)
+12. [Author](#14-author)
 
 ---
 
